@@ -4,7 +4,7 @@
 
 ![](http://i.imgur.com/PZnYFdX.jpg "fence model, rendered in blender")
 
-see it live on ![sketchfab](https://sketchfab.com/models/66165fff696c462285c375d3a195d8fc)
+see it live on sketchfab : https://sketchfab.com/models/66165fff696c462285c375d3a195d8fc
 
 
 ### License
